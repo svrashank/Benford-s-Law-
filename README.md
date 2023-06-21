@@ -18,7 +18,7 @@ This project is the continuation of the practice sql project where I Verify whet
 ### Resources 
 * Dataset : https://ourworldindata.org/covid-deaths 
 * Packages/languages : SQL ,Tabluea,excel 
-* Tableau visualizations : https://public.tableau.com/app/profile/vrashank.shetty/viz/BenfordsLaw_16863843986130/Dashboard1?publish=yes
+* Tableau visualizations: https://public.tableau.com/app/profile/vrashank.shetty/viz/BenfordsLaw_16863843986130/Dashboard1?publish=yes
 * Websites :https://statisticsbyjim.com/probability/benfords-law/
 
 ### Exploratory Data Analysis 
