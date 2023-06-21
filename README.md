@@ -31,7 +31,7 @@ This project is the continuation of the practice sql project where I Verify whet
 * ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/Population%20vs%20Benfords%20law.JPG 'Population vs benfords law percentage')
 * Benford's Law only works on first digits of a dataset ,to verify that I did all the same above steps for the last digits of new cases column
 * Following are the results
-* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/First%20vs%20last%20digit%20percentage.JPG 'First vs last digit percentage') 
+* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/First%20vs%20last%20digit%20percentages.JPG 'First vs last digit percentage') 
 
 ### Observations 
 * We see that the new cases column of the dataset follows benford's law very accurately
