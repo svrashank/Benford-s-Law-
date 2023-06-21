@@ -18,7 +18,7 @@ This project is the continuation of the practice sql project where I Verify whet
 ### Resources 
 * Dataset : https://ourworldindata.org/covid-deaths 
 * Packages/languages : SQL ,Tabluea,excel 
-* Tableau visualizations : https://public.tableau.com/app/profile/vrashank.shetty/viz/BenfordsLaw_16863843986130/Dashboard1?publish=yes
+* Tableau visualizations: https://public.tableau.com/app/profile/vrashank.shetty/viz/BenfordsLaw_16863843986130/Dashboard1?publish=yes
 * Websites :https://statisticsbyjim.com/probability/benfords-law/
 
 ### Exploratory Data Analysis 
@@ -27,15 +27,18 @@ This project is the continuation of the practice sql project where I Verify whet
 * Calcuated the percentage of each digits in the dataset
 * Added a column consisting of the Benford's Law percentages to compare
 * Plotted both, our dataset percentages and the Benford's law percentages
-* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/master/Covid%20cases%20vs%20Benfords%20law.JPG 'New cases vs Benfords law percentage')
-* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/master/Population%20vs%20Benfords%20law.JPG 'Population vs benfords law percentage')
+* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/Covid%20cases%20vs%20Benfords%20law.JPG 'New cases vs Benfords law percentage')
+* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/Population%20vs%20Benfords%20law.JPG 'Population vs benfords law percentage')
+* Benford's Law only works on first digits of a dataset ,to verify that I did all the same above steps for the last digits of new cases column
+* Following are the results
+* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/First%20vs%20last%20digit%20percentage.JPG 'First vs last digit percentage') 
 
 ### Observations 
 * We see that the new cases column of the dataset follows benford's law very accurately
 * Whereas not all digits of  population column follow benford's law
 * There are less than 200 observations in the population column, hence one criteria of benford's law dataset is not met
 * However the digit that was the most in population columnn still was 1
- 
+* The last digit of the dataset follows much more even distribution of percentages which indicates that it doesn't follow benford's law 
 
 
 
