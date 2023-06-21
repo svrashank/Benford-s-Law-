@@ -27,8 +27,8 @@ This project is the continuation of the practice sql project where I Verify whet
 * Calcuated the percentage of each digits in the dataset
 * Added a column consisting of the Benford's Law percentages to compare
 * Plotted both, our dataset percentages and the Benford's law percentages
-* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/master/Covid%20cases%20vs%20Benfords%20law.JPG 'New cases vs Benfords law percentage')
-* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/master/Population%20vs%20Benfords%20law.JPG 'Population vs benfords law percentage')
+* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/Covid%20cases%20vs%20Benfords%20law.JPG 'New cases vs Benfords law percentage')
+* ![alt text](https://github.com/svrashank/Benford-s-Law-/blob/New/Population%20vs%20Benfords%20law.JPG 'Population vs benfords law percentage')
 
 ### Observations 
 * We see that the new cases column of the dataset follows benford's law very accurately
